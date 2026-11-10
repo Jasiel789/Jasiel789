@@ -25,7 +25,7 @@ Técnico Superior Universitario en Desarrollo de Software Multiplataforma y estu
 | :--- | :--- |
 | **Lenguajes** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 | **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) Arquitectura MVC, migraciones, autenticación y roles |
-| **Frontend** | ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Frontend** | ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | **Móvil** | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) |
 | **Base de datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) |
@@ -42,13 +42,13 @@ Sistema web de gestión de biblioteca.
 - **Tecnologías:** Laravel 10, Blade, Bootstrap, MySQL, Vite.
 - **Estado:** funcional.
 
-### Sistema de inventario y servicio para taller de motos
+### [Sistema de inventario y servicio para taller de motos](https://github.com/Jasiel789/SistemaTallerMotos)
 
-Sistema web desarrollado en equipo, pensado para la operación de un taller de motos. Repositorio privado.
+Sistema web desarrollado en equipo, pensado para la operación de un taller de motos.
 
 - **Módulos:** productos y stock, proveedores y compras, ventas de mostrador y por orden de servicio, órdenes de servicio, clientes y reportes en PDF y Excel.
 - **Seguridad:** usuarios con permisos diferenciados (propietario y empleados).
-- **Tecnologías:** Laravel, MySQL, interfaz adaptada a dispositivos móviles.
+- **Tecnologías:** Laravel, MySQL, Tailwind CSS, Vite, interfaz adaptada a dispositivos móviles.
 - **Estado:** en desarrollo.
 
 ---
